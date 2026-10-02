@@ -16,7 +16,7 @@ log file is probably not).
 
 Install via pip:
 
-    $ pip install gtest-parallel
+    $ pip install git+https://github.com/google/gtest-parallel
 
 ## Basic Usage
 
